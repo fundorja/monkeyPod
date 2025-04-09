@@ -7,7 +7,6 @@ const apiKey = "563492ad6f917000010000018eab46c0ee374b6eb502a86a04ce109c";
 // const query = "background";
 // const query = "nature background";
 // const query = "beautifulbackground";
-// const query = "beautifulbackground2";
 const query = "monkey landscape";
 const totalPages = 1024;
 
